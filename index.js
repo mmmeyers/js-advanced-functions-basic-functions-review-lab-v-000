@@ -1,3 +1,3 @@
-function saturdayFun(activity = ) {
+function saturdayFun(activity = 'roller skate') {
   
 }
